@@ -1,0 +1,17 @@
+UBS challenge :  Calculate average amount in Euros (EUR), grouped by Country and Credit Rating.
+  
+This software contains the solution for the problem mentioned in requirements.txt.
+
+======================================================================
+Prerequisites: following softwares should be installed before compiling this project.
+
+java 1.6 or higher
+
+======================================================================
+How to run:
+
+Its simple java based solution , so first import the project in your favorite IDE.
+Open TestMain.java and run as java application
+
+Note : 
+Application is pure java based without any lib uses to make it simple to understand without adding any lib complexities.
